@@ -1,7 +1,7 @@
 RicochetRobots
 ==============
 
-Projet Algorithmique-Programmation, IUT CAEN -- Département Informatique
+#####*Projet Algorithmique-Programmation, IUT CAEN, Département Informatique*
 
 Description du projet
 ---------------------
