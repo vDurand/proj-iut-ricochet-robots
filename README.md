@@ -55,35 +55,35 @@ __Nom1.grTP.zip__ où *Nom1* et *Nom2* sont les noms de
 famille des membres des polynômes et *grTP* est le nom du groupe de TP 
 auquel ils appartiennent (1.1, 1.2, etc.).
 
-NB: Lors des séances de TP, les enseignants chargés de TP suivront l'avancement de votre projet et pourront vous aider sur certains points difficiles.
+**NB:** Lors des séances de TP, les enseignants chargés de TP suivront l'avancement de votre projet et pourront vous aider sur certains points difficiles.
 
 ####Ce qu'il faut rendre:
 1. Le code source complet de votre application en C largement commenté.
 
 2. Un exécutable testé **sous Linux** et opérationnel avec sa documentation d'installation et d'utilisation. 
 
-_ATTENTION:_
+  _ATTENTION:_
 si votre programme fait appel à d'autres librairies externes (comme par exemple la librairie SDL), il est impératif de les inclure pour les besoins de test.
 
 3. Un court rapport d'une longueur comprise entre 3 et 10 pages présentant :
-* les fonctionnalités implémentées (très brièvement).
-* organisation du programme : découpage en fonctions, rôle de ces fonctions, explications du programme. 
-* l'organisation et la répartition des tâches au sein du binôme durant la durée du projet (brièvement).
-* bilan qualitatif du travail, difficultés rencontrées, points qui vous ont paru intéressants. 
-* un mode d'emploi avec quelques illustrations (p. ex. capture d'écrans, scénario d'exécution...), destinées à montrer l'opérationnalité de votre application.
-* Une conclusion sur l'apport (ou non) du projet en termes technique, scientifique, humain.
+ * les fonctionnalités implémentées (très brièvement).
+ * organisation du programme : découpage en fonctions, rôle de ces fonctions, explications du programme. 
+ * l'organisation et la répartition des tâches au sein du binôme durant la durée du projet (brièvement).
+ * bilan qualitatif du travail, difficultés rencontrées, points qui vous ont paru intéressants. 
+ * un mode d'emploi avec quelques illustrations (p. ex. capture d'écrans, scénario d'exécution...), destinées à montrer  l'opérationnalité de votre application.
+ * Une conclusion sur l'apport (ou non) du projet en termes technique, scientifique, humain.
 
 __Le code source ne doit pas faire partie du rapport d'une dizaine de pages 
-(sinon en annexe)}.__
+(sinon en annexe).__
 
 ##Évaluation du projet et calendrier
 
 Le projet est à rendre le _10 janvier 2014 avant minuit_ (tout retard conduira à des pénalités). L'évaluation sera réalisée en fonction  des critères ci-dessous :
 
-* _qualité technique du code_ : découpage en fonctions, modularité et réutilisabité, instructions, algorithmes, efficacité, gestion des erreurs lors de saisies, ou lorsque les données fournies en paramètres des fonctions sont incorrectes.
+* __qualité technique du code__ : découpage en fonctions, modularité et réutilisabité, instructions, algorithmes, efficacité, gestion des erreurs lors de saisies, ou lorsque les données fournies en paramètres des fonctions sont incorrectes.
 
-* _lisibilité du code_ : présentation du programme (indentation), usage de variables et de fonctions ayant des noms explicites, commentaires pour préciser les points difficiles dans les algorithmes, paramètres des fonctions, ...
+* __lisibilité du code__ : présentation du programme (indentation), usage de variables et de fonctions ayant des noms explicites, commentaires pour préciser les points difficiles dans les algorithmes, paramètres des fonctions, ...
 
-* _documentation fournie_ : organisation du programme et son mode d'emploi, bilan.
+* __documentation fournie__ : organisation du programme et son mode d'emploi, bilan.
 
-* _présentation orale_ : démonstration du programme et questions sur le travail réalisée.
+* __présentation orale__ : démonstration du programme et questions sur le travail réalisée.
